@@ -30,7 +30,7 @@ python3 -m venv .venv # python -m venv .venv on a Windows machine
 
 source ./.venv/bin/activate #  .\.venv\Scripts\activate on a Windows machine
 
-pip3 install -r ./requirements.txt # pip install -r .\requirements.txt on a Windows machine
+pip3 install -r ./requirements.txt # pip install -r ./requirements.txt on a Windows machine
 ```
 
 If you don't want to try it out locally you can use the `repl.it` links to **my** hosted project solutions.
@@ -40,3 +40,9 @@ If you don't want to try it out locally you can use the `repl.it` links to **my*
 Link to **my** project solution [click me](mean_Variance_standard_deviation_calculator/)
 
 Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/mean-variance-standard-deviation-calculator#README.md)
+
+## [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
+
+Link to **my** project solution [click me](demographic_data_analyser/)
+
+Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/demographic-data-analyzer#README.md)
