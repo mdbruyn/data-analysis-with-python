@@ -1,0 +1,4 @@
+# vscode specific
+.vscode
+# python chachefiles
+__pycache__
