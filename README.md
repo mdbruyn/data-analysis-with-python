@@ -30,7 +30,7 @@ python3 -m venv .venv # python -m venv .venv on a Windows machine
 
 source ./.venv/bin/activate #  .\.venv\Scripts\activate on a Windows machine
 
-pip3 install -r ./requirements.txt # pip install -r ./requirements.txt on a Windows machine
+pip3 install -r ./requirements.txt # pip install -r .\requirements.txt on a Windows machine
 ```
 
 If you don't want to try it out locally you can use the `repl.it` links to **my** hosted project solutions.
@@ -46,3 +46,13 @@ Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/mean-variance-sta
 Link to **my** project solution [click me](demographic_data_analyser/)
 
 Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/demographic-data-analyzer#README.md)
+
+## [Medical Data Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
+
+**Note:**
+
+One of the tests always failed. It seems it has todo with the version of `matplotlib`. I had to manually change the version in the `poetry.lock` file to version 3.2.2 for the test to work. The problem is known on freeCodeCamp and I found the [solution also in the forum](https://forum.freecodecamp.org/t/medical-data-visualizer-heatmap-values-test-fail/414880/2?).
+
+Link to **my** project solution [click me](medical_data_visualizer/)
+
+Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/medical-data-visualizer#README.md)
