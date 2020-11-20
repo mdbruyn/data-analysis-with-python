@@ -2,6 +2,8 @@
 
 This repository contains **my** solutions for the projects of the python course [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/) from [freeCodeCamp](https://www.freecodecamp.org/).
 
+In some projects there are also Jupyter Notebook.
+
 ## Note
 
 The solutions in this repository are made with `Python 3.9.0`.
@@ -56,3 +58,9 @@ One of the tests always failed. It seems it has todo with the version of `matplo
 Link to **my** project solution [click me](medical_data_visualizer/)
 
 Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/medical-data-visualizer#README.md)
+
+## [Page View Time Series Visualizer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
+
+Link to **my** project solution [click me](page_view_time_series_visualizer/)
+
+Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/page-view-time-series-visualizer#README.md)
