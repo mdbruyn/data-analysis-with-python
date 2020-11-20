@@ -2,3 +2,5 @@
 .vscode
 # python chachefiles
 __pycache__
+# ipynb
+.ipynb_checkpoints
