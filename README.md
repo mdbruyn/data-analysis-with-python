@@ -2,8 +2,6 @@
 
 This repository contains **my** solutions for the projects of the python course [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/) from [freeCodeCamp](https://www.freecodecamp.org/).
 
-In some projects there are also Jupyter Notebook.
-
 ## Note
 
 The solutions in this repository are made with `Python 3.9.0`.
@@ -64,3 +62,9 @@ Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/medical-data-visu
 Link to **my** project solution [click me](page_view_time_series_visualizer/)
 
 Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/page-view-time-series-visualizer#README.md)
+
+## [Sea Level Predictor](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)
+
+Link to **my** project solution [click me](sea_level_predictor/)
+
+Link to **my** `repl.it` [click me](https://repl.it/@ueberBrot/sea-level-predictor#README.md)
